@@ -63,9 +63,8 @@ I specialize in **data warehouse modernization** (Snowflake, BigQuery, dbt, Airf
 
 ---
 
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salmanalfarizii)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mancesalfarizi)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012d03dcf142db639f?mp_source=share)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mancesalfarizi@gmail.com)
+### 🌐 Connect
+[LinkedIn](https://www.linkedin.com/in/salmanalfarizii/) ·
+[Medium](https://medium.com/@mancesalfarizi) ·
+[Upwork](https://www.upwork.com/freelancers/~012d03dcf142db639f) ·
+[X](https://twitter.com/fariz_salman)
